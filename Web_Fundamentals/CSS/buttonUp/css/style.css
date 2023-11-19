@@ -1,0 +1,25 @@
+.search-button{
+    background-color: #f5f5f5;
+    color: #689c9c;
+    border: 2px solid #689c9c;
+    border-radius: 20px;
+    padding: 5px 40px;
+}
+.button2{
+    width: 40px;
+    height: 40px;
+    background-color: #8fd2b1;
+    color: white;
+    border-radius: 100%;
+    border: none;
+    display: block;
+    margin-top: 20px;
+}
+.create-account-btn{
+    background-color: blue;
+    color: white;
+    padding: 5px 20px;
+    border: 2px solid black;
+    box-shadow: 3px 3px black;
+    margin-top: 10px;
+}

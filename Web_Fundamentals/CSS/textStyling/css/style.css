@@ -1,0 +1,25 @@
+.myCloud{
+    background-color: black;
+    color: white;
+    font-size: 36px;
+    padding: 5px 30px;
+    margin: 5px 0;
+}
+#text-aqua{
+    color: aqua;
+}
+.projects{
+    background-color: purple;
+    text-align: center;
+    font-style: italic;
+    padding: 10px;
+    color: white;
+    margin: 5px 0;
+}
+.contactUs{
+    background-color: lightblue;
+    text-align: right;
+    display: block;
+    padding: 10px 20px;
+    font-size: 20px;
+}

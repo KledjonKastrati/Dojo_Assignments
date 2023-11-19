@@ -1,0 +1,33 @@
+img{
+    height: 200px;
+}
+.flex{
+    display: flex;
+}
+.justify-evenly{
+    justify-content: space-evenly;
+}
+.p-20{
+padding: 20px;
+}
+.b-blue{
+    background-color: blue;
+}
+.b-pink{
+    background-color: pink;
+}
+.t-center{
+    text-align: center;
+}
+.conteiner{
+    background-color: silver;
+    border-top: 5px solid black;
+    width: 80%;
+    margin: 0 auto;
+}
+.b-white{
+    background-color: white;
+}
+.mb-10{
+    margin-bottom: 10px;
+}
