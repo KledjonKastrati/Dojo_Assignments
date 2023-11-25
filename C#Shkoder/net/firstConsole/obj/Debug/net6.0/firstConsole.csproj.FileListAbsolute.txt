@@ -1,0 +1,15 @@
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\bin\Debug\net6.0\firstConsole.exe
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\bin\Debug\net6.0\firstConsole.deps.json
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\bin\Debug\net6.0\firstConsole.runtimeconfig.json
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\bin\Debug\net6.0\firstConsole.dll
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\bin\Debug\net6.0\firstConsole.pdb
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\firstConsole.csproj.AssemblyReference.cache
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\firstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\firstConsole.AssemblyInfoInputs.cache
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\firstConsole.AssemblyInfo.cs
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\firstConsole.csproj.CoreCompileInputs.cache
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\firstConsole.dll
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\refint\firstConsole.dll
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\firstConsole.pdb
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\firstConsole.genruntimeconfig.cache
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\net\firstConsole\obj\Debug\net6.0\ref\firstConsole.dll
