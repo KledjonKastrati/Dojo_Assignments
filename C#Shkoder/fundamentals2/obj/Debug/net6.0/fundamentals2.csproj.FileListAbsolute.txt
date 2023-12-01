@@ -1,0 +1,15 @@
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\bin\Debug\net6.0\fundamentals2.exe
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\bin\Debug\net6.0\fundamentals2.deps.json
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\bin\Debug\net6.0\fundamentals2.runtimeconfig.json
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\bin\Debug\net6.0\fundamentals2.dll
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\bin\Debug\net6.0\fundamentals2.pdb
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\fundamentals2.csproj.AssemblyReference.cache
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\fundamentals2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\fundamentals2.AssemblyInfoInputs.cache
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\fundamentals2.AssemblyInfo.cs
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\fundamentals2.csproj.CoreCompileInputs.cache
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\fundamentals2.dll
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\refint\fundamentals2.dll
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\fundamentals2.pdb
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\fundamentals2.genruntimeconfig.cache
+C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#\fundamentals2\obj\Debug\net6.0\ref\fundamentals2.dll
