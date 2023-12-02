@@ -13,7 +13,6 @@ for(int i = 0; i < boolArray.Length; i++)
         boolArray[i] = false;
     }
 }
-
 List<string> Flavors = new List<string>();
 Flavors.Add("Vanilla");
 Flavors.Add("Strawberry");
