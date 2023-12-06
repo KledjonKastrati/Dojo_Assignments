@@ -1,0 +1,28 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Portfolio1
+build_property.RootNamespace = Portfolio1
+build_property.ProjectDir = C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\Portfolio1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\DELL E5470\Desktop\Dojo_Assignments\C#Shkoder\Portfolio1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/DELL E5470/Desktop/Dojo_Assignments/C\#Shkoder/Portfolio1/views/portfolio/contacts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NccG9ydGZvbGlvXGNvbnRhY3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL E5470/Desktop/Dojo_Assignments/C\#Shkoder/Portfolio1/views/portfolio/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NccG9ydGZvbGlvXGluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL E5470/Desktop/Dojo_Assignments/C\#Shkoder/Portfolio1/views/portfolio/projects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = dmlld3NccG9ydGZvbGlvXHByb2plY3RzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
