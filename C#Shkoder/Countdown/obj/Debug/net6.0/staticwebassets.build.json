@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "TcMn7vPYdN6t5SrojJ/LhsV2O0S73NwzxIE6bKQ2v6k=",
+  "Source": "Countdown",
+  "BasePath": "_content/Countdown",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Countdown\\wwwroot",
+      "Source": "Countdown",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Countdown\\wwwroot\\",
+      "BasePath": "_content/Countdown",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Countdown\\wwwroot\\css\\style.css",
+      "SourceId": "Countdown",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Countdown\\wwwroot\\",
+      "BasePath": "_content/Countdown",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
