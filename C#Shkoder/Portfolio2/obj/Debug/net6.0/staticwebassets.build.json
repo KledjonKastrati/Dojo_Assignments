@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "rpVHM1gv4H9Lpg65V5vB07yU42AKNbVCjAuuUaKaow0=",
+  "Source": "Portfolio2",
+  "BasePath": "_content/Portfolio2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Portfolio2\\wwwroot",
+      "Source": "Portfolio2",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Portfolio2\\wwwroot\\",
+      "BasePath": "_content/Portfolio2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Portfolio2\\wwwroot\\css\\images\\anon.png",
+      "SourceId": "Portfolio2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Portfolio2\\wwwroot\\",
+      "BasePath": "_content/Portfolio2",
+      "RelativePath": "css/images/anon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\anon.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Portfolio2\\wwwroot\\css\\images\\mail.png",
+      "SourceId": "Portfolio2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Portfolio2\\wwwroot\\",
+      "BasePath": "_content/Portfolio2",
+      "RelativePath": "css/images/mail.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\images\\mail.png"
+    },
+    {
+      "Identity": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Portfolio2\\wwwroot\\css\\style.css",
+      "SourceId": "Portfolio2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\Portfolio2\\wwwroot\\",
+      "BasePath": "_content/Portfolio2",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}
