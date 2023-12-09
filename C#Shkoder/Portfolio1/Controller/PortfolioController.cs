@@ -6,15 +6,15 @@ public class PortfolioController : Controller   // Remember inheritance?
 {
     [HttpGet("")]
     public ViewResult Index (){
-        return View("index");
+        return View("Index");
 
     }
     [HttpGet("projects")]
     public ViewResult Projects(){
-        return View("projects");
+        return View("Projects");
     }
     [HttpGet("contact")] 
     public ViewResult Contacts(){
-        return View("contacts");
+        return View("Contacts");
     }
 }   

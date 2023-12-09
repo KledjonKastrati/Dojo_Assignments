@@ -1,0 +1,50 @@
+﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
+using firstMVC.Models;
+
+namespace firstMVC.Controllers;
+
+public class HomeController : Controller
+{
+    private readonly ILogger<HomeController> _logger;
+
+    public HomeController(ILogger<HomeController> logger)
+    {
+        _logger = logger;
+    }
+
+    public IActionResult Index()
+    {
+        return View();
+    }
+    
+    
+    [HttpGet("Privacy")]
+    public IActionResult Privacy()
+    {
+        return View();
+    }
+    [HttpGet("Regjistrohu")]
+    public IActionResult Regjistrohu()
+    {
+        return View();
+    }
+    [HttpPost("CreateUser")]
+    public IActionResult CreateUser(User useriNgaForma){
+
+        if (ModelState.IsValid)
+        {
+            return View("CreateUser",useriNgaForma);
+        }
+        return View("Regjistrohu");
+
+        
+    }
+
+
+    [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+    public IActionResult Error()
+    {
+        return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+    }
+}

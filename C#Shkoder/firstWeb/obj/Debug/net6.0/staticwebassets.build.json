@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "P+oYgNVofu8y0DEbmIFHClCLgXTSeOVZPwKcZG7SQWI=",
+  "Source": "firstWeb",
+  "BasePath": "_content/firstWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "firstWeb\\wwwroot",
+      "Source": "firstWeb",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\firstWeb\\wwwroot\\",
+      "BasePath": "_content/firstWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\firstWeb\\wwwroot\\css\\style.css",
+      "SourceId": "firstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\firstWeb\\wwwroot\\",
+      "BasePath": "_content/firstWeb",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\firstWeb\\wwwroot\\css\\user2.css",
+      "SourceId": "firstWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\DELL E5470\\Desktop\\Dojo_Assignments\\C#Shkoder\\firstWeb\\wwwroot\\",
+      "BasePath": "_content/firstWeb",
+      "RelativePath": "css/user2.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\user2.css"
+    }
+  ]
+}
