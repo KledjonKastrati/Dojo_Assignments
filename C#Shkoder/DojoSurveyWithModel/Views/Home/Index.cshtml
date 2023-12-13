@@ -1,0 +1,48 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model User
+<div class="container">
+    <h1 class="text-center"><b>Dojo Survey</b></h1>
+    <form asp-controller="survey" asp-action="" class="mx-auto" style="max-width: 400px;" method="POST">
+
+        <div class="form-group">
+            <label asp-for="Name">Your Name:</label>
+            <input asp-for="Name" class="form-control" type="text" placeholder="John Doe" name="Name">
+            <span class="text-danger"asp-validation-for="Name"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Locations">Dojo Location:</label>
+            <span class="text-danger" asp-validation-for="Locations"></span>
+            <select class="form-control" asp-for="Locations">
+                <option value="Shkoder">Shkoder</option>
+                <option value="Tirane">Tirane</option>
+                <option value="Sarande">Sarande</option>
+                <option value="durres">Durres</option>
+                <option value="Diber">Diber</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Languages">Favorite Language:</label>
+            <span class="text-danger" asp-validation-for="Languages"></span>
+            <select class="form-control" asp-for="Languages">
+                <option value="java">Java</option>
+                <option value="python">Python</option>
+                <option value="javascript">JavaScript</option>
+                <option value="cplusplus">C++</option>
+                <option value="csharp">C#</option>
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Comments">Comment (Optional)</label>
+            <span class="text-danger" asp-validation-for="Comments"></span>
+            <textarea class="form-control" id="Comments" placeholder="What's on your mind?" asp-for="Comments"></textarea>
+        </div>
+
+        <input class="btn btn-primary" type="submit" value="Submit">
+    </form>
+</div>
