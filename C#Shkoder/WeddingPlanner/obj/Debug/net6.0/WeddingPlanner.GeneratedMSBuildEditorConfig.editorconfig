@@ -23,10 +23,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/DELL E5470/Desktop/Dojo_Assignments/C\#Shkoder/WeddingPlanner/Views/Home/NavBar.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxOYXZCYXIuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/DELL E5470/Desktop/Dojo_Assignments/C\#Shkoder/WeddingPlanner/Views/Home/PlanAWedding.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQbGFuQVdlZGRpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -41,6 +37,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/DELL E5470/Desktop/Dojo_Assignments/C\#Shkoder/WeddingPlanner/Views/Home/_Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/DELL E5470/Desktop/Dojo_Assignments/C\#Shkoder/WeddingPlanner/Views/Home/_Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfTmF2YmFyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/DELL E5470/Desktop/Dojo_Assignments/C\#Shkoder/WeddingPlanner/Views/Home/_Registration.cshtml]

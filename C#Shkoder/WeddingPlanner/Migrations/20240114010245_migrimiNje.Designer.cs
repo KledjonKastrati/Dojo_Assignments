@@ -11,7 +11,7 @@ using WeddingPlanner.Models;
 namespace WeddingPlanner.Migrations
 {
     [DbContext(typeof(MyContext))]
-    [Migration("20240110173242_migrimiNje")]
+    [Migration("20240114010245_migrimiNje")]
     partial class migrimiNje
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
